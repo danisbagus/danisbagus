@@ -7,6 +7,19 @@
 - 🌱 I’m currently learning BackEnd Development
 - ⚡  Fun fact: I love to play watch film and listen music.
 
+## **📉 &nbsp;My Statistics**
+
+<p>
+<a href="https://github.com/danisbagus">
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=danisbagus&show_icons=true" />
+    
+<div>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danisbagus&layout=compact" />
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=danisbagus&label=PROFILE+VIEWS)
+
 ## **🤝🏻 &nbsp;Connect with Me**
 
 <a href="https://www.linkedin.com/in/danis-bagus-setiawan-432387186/"><img src="https://img.shields.io/badge/-Danis%20Bagus%20Setiawan-0966C2?style=social&logo=Linkedin"/>&nbsp;
