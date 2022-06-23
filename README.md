@@ -5,7 +5,7 @@
 - 🏢 I’m currently working at [Majoo Indonesia](https://majoo.id//) as Backend Engineer
 - 🎓 Graduated from Automation Engineer at [Shipbuilding Institute of Polytechnic Surabaya](https://ppns.ac.id/)
 - 🌱 I’m currently learning BackEnd Development
-- ⚡  Fun fact: I love to play watch film and listen music.
+- ⚡  Fun fact: I love to watch film and listen music.
 
 ## **📉 &nbsp;My Statistics**
 
