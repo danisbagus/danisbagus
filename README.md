@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer
 
-- 🏢 I’m currently working at [Majoo Indonesia](https://majoo.id//) as Backend Engineer
+- 🏢 I’m currently working at [Catalyst](https://www.ctlyst.id/) as Backend Engineer
 - 🎓 Graduated from Automation Engineer at [Shipbuilding Institute of Polytechnic Surabaya](https://ppns.ac.id/)
 - 🌱 I’m currently learning BackEnd Development
 - ⚡  Fun fact: I love to watch film and listen music.
